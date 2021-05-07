@@ -1,1 +1,1 @@
-# Practicals-PT
+# Practicals And Tutorials-PT
